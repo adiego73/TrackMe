@@ -18,12 +18,12 @@ ITD/*.pdf
 
 # Ignore IntelliJ files
 .idea/
-src/**/target/
-src/**/public
+DeliveryFolder/src/**/target/
+DeliveryFolder/src/**/public
 
 # Ignore node_modules
 node_modules/
-src/**/resources/public/*
+DeliveryFolder/src/**/resources/public/*
 package-lock.json
 
 
