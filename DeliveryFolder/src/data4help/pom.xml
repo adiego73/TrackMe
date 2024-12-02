@@ -14,7 +14,7 @@
         <slf4jVersion>1.7.25</slf4jVersion>
         <morphiaVersion>1.4.0</morphiaVersion>
         <gsonVersion>2.8.5</gsonVersion>
-        <lettuceVersion>5.1.2.RELEASE</lettuceVersion>
+        <lettuceVersion>6.5.1.RELEASE</lettuceVersion>
         <jetbrainAnnotationsVersion>[13.0,)</jetbrainAnnotationsVersion>
         <apacheCommonsVersion>[1.11,)</apacheCommonsVersion>
         <apacheCommonsValidator>1.6</apacheCommonsValidator>
